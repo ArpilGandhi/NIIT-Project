@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/NetBeans%208.2/ShoppersSquare/src/java/com/niit/shopperssquare/daoimpl/DBConnection.java</file>
+            <file>file:/E:/NetBeans%208.2/ShoppersSquare/src/java/com/niit/shopperssquare/daoimpl/DealsDAOImpl.java</file>
+            <file>file:/E:/NetBeans%208.2/ShoppersSquare/src/java/com/niit/shopperssquare/entities/Deals.java</file>
+            <file>file:/E:/NetBeans%208.2/ShoppersSquare/src/java/com/niit/shopperssquare/daoimpl/DeliveryDAOImpl.java</file>
+            <file>file:/E:/NetBeans%208.2/ShoppersSquare/src/java/com/niit/shopperssquare/entities/Customer.java</file>
+            <file>file:/E:/NetBeans%208.2/ShoppersSquare/src/java/com/niit/shopperssquare/dao/CustomerDAO.java</file>
+            <file>file:/E:/NetBeans%208.2/ShoppersSquare/src/java/com/niit/shopperssquare/daoimpl/CustomerDAOImpl.java</file>
+            <file>file:/E:/NetBeans%208.2/ShoppersSquare/src/java/com/niit/onlineshopping/testing/Application.java</file>
+            <file>file:/E:/NetBeans%208.2/ShoppersSquare/src/java/com/niit/shopperssquare/daoimpl/ItemDAOImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
